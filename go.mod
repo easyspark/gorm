@@ -1,4 +1,4 @@
-module gorm
+module github.com/easyspark/gorm
 
 go 1.14
 
